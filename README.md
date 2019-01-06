@@ -1,2 +1,2 @@
 # Address-Validator
-Given an address, the USPS api validates the address. This application can be used within checking user's address on a e-commerce website.
+Given an address, the USPS api validates the address. The Java application can be used within checking user's address on an e-commerce website.
